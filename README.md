@@ -1,26 +1,113 @@
-# Hi 👋, I'm Rakheeb Mohammad
+<h1 align="center">Hi 👋, I'm Rakheeb Mohammad</h1>
+
+<h3 align="center">DevOps Engineer | AWS | Docker | Jenkins | Terraform | Kubernetes | Linux | CI/CD</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rakheeb+Mohammad;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Jenkins;Terraform+%7C+Kubernetes;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+🚀" />
 </p>
 
-### Aspiring DevOps Engineer | AWS | Linux | Docker | Jenkins | Terraform | CI/CD
+---
 
+## 👨‍💻 About Me
 
-- - 🔭 I'm currently working on **hands-on DevOps projects while expanding my expertise in cloud infrastructure, automation, and CI/CD.**
+- 💼 Former **Senior Systems Engineer** with **2.8 years of IT experience**
+- ☁️ Transitioning into **DevOps Engineering**
+- 🔭 Currently building **real-world DevOps projects**
+- 🌱 Learning **Kubernetes, Ansible, DevSecOps & Advanced AWS**
+- 💬 Ask me about **Linux, Git, Docker, Jenkins, AWS, Terraform & CI/CD**
+- 📫 Reach me at **rakheebmohammad210@gmail.com**
+- ⚡ Fun Fact: *I enjoy automating repetitive tasks and solving infrastructure challenges.*
 
-- - 🌱 I'm currently learning **Kubernetes, Ansible, DevSecOps, and advanced AWS services.**
+---
 
-- 💬 Ask me about **Linux, Git, Docker, Jenkins, AWS, Terraform, and CI/CD**
+## 🚀 Tech Stack
 
-- 📫 How to reach me **rakheebmohammad210@gmail.com**
+<p align="center">
 
-- ⚡ Fun fact **I enjoy automating repetitive tasks and continuously learning new cloud technologies.**
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,linux,bash,git,github,python,vscode&perline=5"/>
 
-<h3 align="left">Connect with me:</h3>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rakheebmohammad210&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakheebmohammad210&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rakheebmohammad210&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+✅ AWS Cloud
+
+✅ Docker
+
+✅ Jenkins
+
+✅ Terraform
+
+✅ Kubernetes
+
+✅ Ansible
+
+✅ GitHub Actions
+
+✅ DevSecOps
+
+---
+
+## 📂 Featured Projects
+
+🚀 Linux Administration
+
+🚀 Docker Projects
+
+🚀 Jenkins CI/CD Pipeline
+
+🚀 Terraform AWS Infrastructure
+
+🚀 Kubernetes Deployments
+
+🚀 End-to-End DevOps Project
+
+*(Projects will be updated as I continue building my portfolio.)*
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://github.com/rakheebmohammad210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rakheebmohammad210" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rakheebmohammad210@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
