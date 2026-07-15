@@ -1,4 +1,7 @@
 # Hi 👋, I'm Rakheeb Mohammad
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rakheeb+Mohammad;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Jenkins;Terraform+%7C+Kubernetes;Always+Learning+Something+New+🚀" />
+</p>
 
 ### Aspiring DevOps Engineer | AWS | Linux | Docker | Jenkins | Terraform | CI/CD
 
