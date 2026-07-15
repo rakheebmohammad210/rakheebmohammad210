@@ -2,10 +2,7 @@
 
 <h3 align="center">DevOps Engineer | AWS | Docker | Jenkins | Terraform | Kubernetes | Linux | CI/CD</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakheebmohammad210&show_icons=true&theme=tokyonight&hide_border=true" />
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+🚀" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&multiline=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Rakheeb+Mohammad+Aspiring+DevOps+Engineer+AWS+%7C+Docker+%7C+Jenkins+Terraform+%7C+Kubernetes+%7C+Linux+Building+Real-World+DevOps+Projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 ---
 
