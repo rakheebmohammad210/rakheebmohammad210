@@ -2,7 +2,6 @@
 
 ### Aspiring DevOps Engineer | AWS | Linux | Docker | Jenkins | Terraform | CI/CD
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakheebmohammad210&label=Profile views&color=0e75b6&style=flat" alt="rakheebmohammad210" /> </p>
 
 - - 🔭 I'm currently working on **hands-on DevOps projects while expanding my expertise in cloud infrastructure, automation, and CI/CD.**
 
