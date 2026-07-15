@@ -2,6 +2,7 @@
 
 <h3 align="center">DevOps Engineer | AWS | Docker | Jenkins | Terraform | Kubernetes | Linux | CI/CD</h3>
 
+<img src="https://github-readme-stats.vercel.app/api?username=rakheebmohammad210&show_icons=true&theme=tokyonight&hide_border=true" />
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+🚀" />
 </p>
