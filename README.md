@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakheeb Mohammad</h1>
 
 <h3 align="center">DevOps Engineer | AWS | Docker | Jenkins | Terraform | Kubernetes | Linux | CI/CD</h3>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&multiline=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Rakheeb+Mohammad+Aspiring+DevOps+Engineer+AWS+%7C+Docker+%7C+Jenkins+Terraform+%7C+Kubernetes+%7C+Linux+Building+Real-World+DevOps+Projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
 ---
-
 ## 👨‍💻 About Me
 
 - 💼 Former **Senior Systems Engineer** with **2.8 years of IT experience**
